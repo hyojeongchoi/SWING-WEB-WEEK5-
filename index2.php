@@ -24,7 +24,6 @@ else
   <?php
   echo '로그인 성공';
   ?>
-  <b>활동</b>
   <form>
     <input type="button" name="logout" value="logout" onclick="location.href='logout2.php'">
   </form>
